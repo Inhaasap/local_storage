@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GregorHorvatH/goit-js-68.git"
+    "url": "git+https://github.com/Inhaasap/local_storage.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/GregorHorvatH/goit-js-68/issues"
+    "url": "https://github.com/Inhaasap/local_storage/issues"
   },
   "homepage": "https://GregorHorvatH.github.io/goit-js-68",
   "devDependencies": {
